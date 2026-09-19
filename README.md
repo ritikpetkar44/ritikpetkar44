@@ -1,15 +1,38 @@
-# 👋 Welcome To My Profile
+# 👋 Welcome to My GitHub Profile
 
 <h1 align="center">Hi, I'm Yash Petkar 🚀</h1>
 
+<h3 align="center">
+  B.Tech CSE (Artificial Intelligence & Machine Learning) Student
+</h3>
+
+<p align="center">
+  <i>Building intelligent solutions, learning every day, and turning ideas into reality.</i>
+</p>
+
+<p align="center">
+  <a href="https://ritikpetkar44.github.io/ritikpetkar44/">
+    <img src="https://img.shields.io/badge/🌐_My_Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/ritikpetkar44">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🙋‍♂️ About Me
 
-I'm passionate about **Artificial Intelligence, Machine Learning, and Software Development**. I enjoy building real-world projects and continuously improving my technical skills.
+Hello! I'm **Yash Petkar**, a passionate Computer Science student specializing in **Artificial Intelligence and Machine Learning**.
 
-* 🔭 Currently working on AI/ML projects
-* 🌱 Learning Python, Pandas, Data Analysis & Machine Learning
-* 💡 Interested in building innovative AI solutions
-* 🎯 Goal: Become a skilled AI/ML Engineer
+I love exploring new technologies, developing practical projects, and solving real-world problems through code.
+
+- 🔭 Currently working on **AI/ML and software development projects**
+- 🌱 Currently learning **Python, Pandas, Data Analysis & Machine Learning**
+- 💡 Interested in **Artificial Intelligence, Computer Vision & Automation**
+- 🧠 Improving my problem-solving and programming skills
+- 🎯 Goal: Become a skilled **AI/ML Engineer**
+- ⚡ Believe in: **Build • Learn • Grow • Repeat**
 
 ---
 
@@ -17,56 +40,99 @@ I'm passionate about **Artificial Intelligence, Machine Learning, and Software D
 
 <p align="center">
   <a href="https://ritikpetkar44.github.io/ritikpetkar44/">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00C853?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  Discover my projects, skills, achievements, and development journey through my personal portfolio.
+</p>
+
 ---
+
 ## 🛠️ Skills & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,github,vscode" />
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 </p>
 
-<p align="center">
-  <b>Currently Exploring:</b> NumPy • Pandas • Data Analysis • Machine Learning
+### 🌐 Web & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 </p>
+
+### 🤖 AI/ML & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Currently Exploring:**
+
+`NumPy` • `Pandas` • `Data Analysis` • `Machine Learning` • `Computer Vision`
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🐟 Smart Micro Object Counting System
+
+An AI-based project focused on counting small objects such as fish fry using computer vision and machine learning techniques.
+
+### 🗑️ Smart Waste Overflow Detection
+
+A smart system that detects overflowing garbage bins using AI and provides useful monitoring features.
+
+### 🏥 Shrushrut – OPD Queue Management
+
+A digital hospital OPD management system designed to improve token handling and reduce patient waiting time.
+
 <p align="center">
   <a href="https://ritikpetkar44.github.io/ritikpetkar44/">
-    <img src="https://img.shields.io/badge/🏆_Hackathon_Projects-Visit_Portfolio-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🏆_View_Hackathon_Projects-Visit_Portfolio-blue?style=for-the-badge" />
   </a>
   <a href="https://ritikpetkar44.github.io/ritikpetkar44/">
-    <img src="https://img.shields.io/badge/💡_Self_Projects-Visit_Portfolio-purple?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💡_View_Self_Projects-Visit_Portfolio-purple?style=for-the-badge" />
   </a>
 </p>
-
-Explore my hackathon and personal projects through my portfolio.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikpetkar44&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikpetkar44&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikpetkar44&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikpetkar44&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
-## 🐍 My Contributions
+## 🐍 My Contribution Journey
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikpetkar44/ritikpetkar44/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikpetkar44/ritikpetkar44/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ritikpetkar44/ritikpetkar44/output/github-contribution-grid-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ritikpetkar44/ritikpetkar44/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ritikpetkar44/ritikpetkar44/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution grid snake animation"
+      src="https://raw.githubusercontent.com/ritikpetkar44/ritikpetkar44/output/github-contribution-grid-snake.svg"
+    />
   </picture>
 </p>
 
@@ -94,10 +160,18 @@ Explore my hackathon and personal projects through my portfolio.
 
 ---
 
-<p align="center">
-  <i>“Build • Learn • Grow • Repeat.”</i>
-</p>
+## 💬 Profile Visitors
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritikpetkar44&label=Profile%20Views&color=00C853&style=for-the-badge" />
+</p>
+
+---
+
+<h3 align="center">
   ⭐ Thanks for visiting my profile!
+</h3>
+
+<p align="center">
+  <i>"Code. Create. Contribute. Repeat."</i>
 </p>
