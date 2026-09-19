@@ -20,7 +20,7 @@ I'm passionate about **Artificial Intelligence, Machine Learning, and Software D
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00C853?style=for-the-badge" />
   </a>
 </p>
---
+---
 ## 🛠️ Skills & Technologies
 
 <p align="center">
