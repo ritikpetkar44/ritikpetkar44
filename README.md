@@ -15,7 +15,7 @@ I'm passionate about Artificial Intelligence, Machine Learning, and Software Dev
 ## 🛠️ Skills & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,html,github,vscode" />
 </p>
 
 ---
