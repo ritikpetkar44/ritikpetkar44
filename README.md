@@ -26,11 +26,27 @@ I'm passionate about Artificial Intelligence, Machine Learning, and Software Dev
 <img src="https://github-readme-stats.vercel.app/api?username=ritikpetkar44&show_icons=true&theme=tokyonight" />
 </p>
 
+---
+
+## 🐍 My Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikpetkar44/ritikpetkar44/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikpetkar44/ritikpetkar44/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ritikpetkar44/ritikpetkar44/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ritikpetkar44&theme=tokyonight" />
 </p>
+
+---
 
 ## 📈 Contribution Graph
 
@@ -46,11 +62,4 @@ I'm passionate about Artificial Intelligence, Machine Learning, and Software Dev
 <a href="https://github.com/ritikpetkar44">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikpetkar44/ritikpetkar44/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikpetkar44/ritikpetkar44/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ritikpetkar44/ritikpetkar44/output/github-contribution-grid-snake.svg">
-  </picture>
 </p>
