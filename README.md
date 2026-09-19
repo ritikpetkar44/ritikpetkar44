@@ -1,5 +1,16 @@
 
-# Hi 👋, I'm Yash Petkar
+# Wellcome To My Profile
+# " Yash Petkar "
+
+---
+
+## 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://ritikpetkar44.github.io/ritikpetkar44/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ### 🎓 B.Tech CSE (AIML) Student | Aspiring AI/ML Engineer
 
@@ -8,7 +19,6 @@ I'm passionate about Artificial Intelligence, Machine Learning, and Software Dev
 - 🔭 Currently working on AI/ML projects
 - 🌱 Learning Python, Pandas, Data Analysis & Machine Learning
 - 💡 Interested in building real-world AI solutions
-- 📫 Connect with me on GitHub
 
 ---
 
@@ -16,14 +26,6 @@ I'm passionate about Artificial Intelligence, Machine Learning, and Software Dev
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,java,html,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ritikpetkar44&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -44,14 +46,6 @@ I'm passionate about Artificial Intelligence, Machine Learning, and Software Dev
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ritikpetkar44&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikpetkar44&theme=tokyo-night" />
 </p>
 
 ---
