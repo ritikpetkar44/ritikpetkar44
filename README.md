@@ -2,16 +2,6 @@
 
 <h1 align="center">Hi, I'm Yash Petkar 🚀</h1>
 
-<h3 align="center">🎓 B.Tech CSE (AIML) Student | Aspiring AI/ML Engineer</h3>
-
-<p align="center">
-  <a href="https://ritikpetkar44.github.io/ritikpetkar44/">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00C853?style=for-the-badge" />
-  </a>
-</p>
-
----
-
 ## 🙋‍♂️ About Me
 
 I'm passionate about **Artificial Intelligence, Machine Learning, and Software Development**. I enjoy building real-world projects and continuously improving my technical skills.
@@ -23,6 +13,13 @@ I'm passionate about **Artificial Intelligence, Machine Learning, and Software D
 
 ---
 
+## 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://ritikpetkar44.github.io/ritikpetkar44/">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00C853?style=for-the-badge" />
+  </a>
+</p>
 ## 🛠️ Skills & Technologies
 
 <p align="center">
@@ -80,11 +77,17 @@ Explore my hackathon and personal projects through my portfolio.
   <a href="https://github.com/ritikpetkar44">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/yash-petkar-725b76386/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:ritikpetkar44@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/ritikpetkar44/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://t.me/yash_petkar7020">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
