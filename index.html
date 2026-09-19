@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Yash Petkar | AI/ML Developer</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+:root{
+  --bg:#050d1b;
+  --card:#091528;
+  --border:#17477d;
+  --text:#f5f7ff;
+  --muted:#b7c4df;
+  --blue:#3ba7ff;
+  --purple:#8b5cf6;
+}
+*{margin:0;padding:0;box-sizing:border-box;scroll-behavior:smooth}
+body{font-family:Inter,sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
+a{text-decoration:none;color:inherit}
+nav{position:sticky;top:0;z-index:10;background:#050d1beF;border-bottom:1px solid #19304e;backdrop-filter:blur(12px)}
+.nav-inner{max-width:1150px;margin:auto;padding:16px 24px;display:flex;align-items:center;justify-content:space-between}
+.logo{font-size:23px;font-weight:800}.logo span{color:var(--blue)}
+nav ul{display:flex;gap:28px;list-style:none}
+nav a{color:#dbe7ff;font-size:14px}nav a:hover{color:var(--blue)}
+.container{max-width:1150px;margin:auto;padding:0 24px}
+.hero{padding:90px 0 65px;display:grid;grid-template-columns:1.1fr .9fr;gap:45px;align-items:center}
+.tag{color:#8abfff;font-size:14px;margin-bottom:16px}
+h1{font-size:clamp(42px,6vw,72px);line-height:1.08;margin-bottom:18px}
+.gradient{background:linear-gradient(90deg,#fff,#3ba7ff,#9b75ff);-webkit-background-clip:text;color:transparent}
+.hero h2{font-size:21px;margin-bottom:20px;color:#dbe7ff}
+.hero p{color:var(--muted);max-width:590px}
+.buttons{display:flex;gap:14px;flex-wrap:wrap;margin-top:28px}
+.btn{padding:12px 20px;border:1px solid var(--blue);border-radius:30px;color:#fff;font-size:14px;display:inline-block}
+.btn.primary{background:linear-gradient(90deg,#1678e8,#7048e8);border:none}
+.profile{width:290px;height:290px;border-radius:50%;margin:auto;display:grid;place-items:center;border:3px solid var(--blue);box-shadow:0 0 50px #2369c855;background:radial-gradient(circle,#193d70,#071122 65%)}
+.profile strong{font-size:80px;color:#fff}
+section{padding:55px 0;border-top:1px solid #152943}
+.section-title{font-size:32px;margin-bottom:8px}.section-sub{color:var(--muted);margin-bottom:28px}
+.connect-grid,.project-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.project-grid{grid-template-columns:repeat(3,1fr)}
+.card{background:linear-gradient(145deg,#0b1b31,#06101f);border:1px solid var(--border);border-radius:14px;padding:23px;transition:.25s}
+.card:hover{transform:translateY(-5px);border-color:var(--blue);box-shadow:0 10px 35px #0005}
+.card-icon{font-size:28px;margin-bottom:12px}
+.card h3{font-size:18px;margin-bottom:9px}.card p{font-size:14px;color:var(--muted);margin-bottom:16px}
+.badges{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:18px}
+.badge{background:#102b4d;border-radius:20px;padding:5px 10px;font-size:11px;color:#cce4ff}
+.project-label{display:inline-block;background:#281c67;color:#cfc4ff;border-radius:15px;padding:4px 10px;font-size:11px;margin-bottom:12px}
+.link{color:#55b4ff;font-size:13px;font-weight:600}
+footer{text-align:center;padding:30px 20px;color:var(--muted);font-size:13px}
+@media(max-width:850px){
+  .hero{grid-template-columns:1fr;text-align:center;padding-top:55px}
+  .hero p{margin:auto}.buttons{justify-content:center}.profile{width:220px;height:220px}
+  .connect-grid{grid-template-columns:repeat(2,1fr)}.project-grid{grid-template-columns:1fr}
+  nav ul{gap:12px}nav a{font-size:11px}
+}
+@media(max-width:480px){
+  .nav-inner{padding:13px 15px}.logo{font-size:18px}nav ul{gap:9px}
+  .container{padding:0 16px}.connect-grid{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <a class="logo" href="#">YP <span>|</span> Yash Petkar</a>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#hackathons">Hackathons</a></li>
+      <li><a href="#self-projects">Self Projects</a></li>
+      <li><a href="#connect">Connect</a></li>
+    </ul>
+  </div>
+</nav>
+
+<main>
+<section id="home">
+<div class="container hero">
+  <div>
+    <div class="tag">👋 WELCOME TO MY PORTFOLIO</div>
+    <h1>Hi, I'm<br><span class="gradient">Yash Petkar</span></h1>
+    <h2>B.Tech CSE (AIML) Student | Aspiring AI/ML Engineer</h2>
+    <p>I'm passionate about Artificial Intelligence, Machine Learning, and Software Development. I love building real-world solutions and exploring new technologies.</p>
+    <div class="buttons">
+      <a class="btn primary" href="#self-projects">Explore Projects ↗</a>
+      <a class="btn" href="#connect">Let's Connect →</a>
+    </div>
+  </div>
+  <div class="profile"><strong>YP</strong></div>
+</div>
+</section>
+
+<section id="connect">
+<div class="container">
+  <h2 class="section-title">🤝 Connect With Me</h2>
+  <p class="section-sub">Feel free to reach out or follow my journey.</p>
+  <div class="connect-grid">
+    <a class="card" href="https://github.com/ritikpetkar44" target="_blank"><div class="card-icon">🐙</div><h3>GitHub</h3><p>My repositories and code.</p><span class="link">Visit Profile →</span></a>
+    <a class="card" href="YOUR_LINKEDIN_URL" target="_blank"><div class="card-icon">💼</div><h3>LinkedIn</h3><p>Professional profile.</p><span class="link">Connect →</span></a>
+    <a class="card" href="mailto:YOUR_EMAIL@gmail.com"><div class="card-icon">✉️</div><h3>Email</h3><p>Let's discuss ideas and opportunities.</p><span class="link">Send Email →</span></a>
+    <a class="card" href="YOUR_INSTAGRAM_URL" target="_blank"><div class="card-icon">📸</div><h3>Instagram</h3><p>Follow my journey.</p><span class="link">Follow →</span></a>
+  </div>
+</div>
+</section>
+
+<section id="hackathons">
+<div class="container">
+  <h2 class="section-title">🏆 Hackathon Projects</h2>
+  <p class="section-sub">Projects built as part of hackathons and team collaborations.</p>
+  <div class="project-grid">
+    <article class="card"><div class="card-icon">💻</div><span class="project-label">Team Project</span><h3>SmartDebug AI / CodeXray</h3><p>AI-powered coding assistant and developer tool with code analysis, debugging, and smart suggestions.</p><div class="badges"><span class="badge">Python</span><span class="badge">AI/ML</span><span class="badge">Web</span></div><a class="link" href="YOUR_CODEXRAY_LINK" target="_blank">View Project →</a></article>
+    <article class="card"><div class="card-icon">♻️</div><span class="project-label">Team Project</span><h3>Smart Waste Overflow Detection</h3><p>AI-powered waste bin monitoring system using YOLO and Firebase. Detects overflow and supports email alerts.</p><div class="badges"><span class="badge">YOLO</span><span class="badge">Firebase</span><span class="badge">AI</span></div><a class="link" href="YOUR_WASTE_PROJECT_LINK" target="_blank">View Project →</a></article>
+    <article class="card"><div class="card-icon">🏥</div><span class="project-label">Team Project</span><h3>Shrushrut</h3><p>OPD queue management system with token generation, average wait-time calculation, and email notifications.</p><div class="badges"><span class="badge">Firebase</span><span class="badge">Web</span><span class="badge">Resend</span></div><a class="link" href="YOUR_SHRUSHRUT_LINK" target="_blank">View Project →</a></article>
+  </div>
+</div>
+</section>
+
+<section id="self-projects">
+<div class="container">
+  <h2 class="section-title">💡 Self Projects</h2>
+  <p class="section-sub">Projects I built to learn, explore, and improve my skills.</p>
+  <div class="project-grid">
+    <article class="card"><div class="card-icon">🐟</div><span class="project-label">AI/ML Project</span><h3>Smart Micro Object Counting System</h3><p>Fish fry counting system using computer vision and YOLO. Designed to handle overlapping objects with future scope for shrimp, seeds, and microscope image counting.</p><div class="badges"><span class="badge">Python</span><span class="badge">YOLO</span><span class="badge">Computer Vision</span></div><a class="link" href="YOUR_FISH_PROJECT_LINK" target="_blank">View Project →</a></article>
+    <article class="card"><div class="card-icon">📊</div><span class="project-label">Learning</span><h3>Machine Learning Journey</h3><p>Practice notebooks and projects covering NumPy, Pandas, data analysis, and machine learning concepts.</p><div class="badges"><span class="badge">Python</span><span class="badge">NumPy</span><span class="badge">Pandas</span></div><a class="link" href="YOUR_ML_REPO_LINK" target="_blank">View Project →</a></article>
+    <article class="card"><div class="card-icon">🚀</div><span class="project-label">Coming Soon</span><h3>More Projects Coming Soon...</h3><p>Currently learning and building more AI/ML and software development projects. Stay tuned!</p><div class="badges"><span class="badge">AI/ML</span><span class="badge">Web Dev</span></div><a class="link" href="https://github.com/ritikpetkar44" target="_blank">Explore GitHub →</a></article>
+  </div>
+</div>
+</section>
+</main>
+
+<footer>© 2026 Yash Petkar &nbsp; | &nbsp; Build • Learn • Grow • Let's Connect</footer>
+</body>
+</html>
