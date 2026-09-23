@@ -167,7 +167,19 @@ A digital hospital OPD management system designed to improve token handling and 
 </p>
 
 ---
+<!-- BANNER NO TOPO -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/main/bpxxqqvps4h91.gif" alt="Cyberpunk Banner" width="100%" />
+</div>
 
+<!-- GIFS + FRASE (ALINHADOS) -->
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+
+  <!-- ESQUERDA: GIF + FRASE -->
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/main/d.gif" width="180px" alt="Side Gif">
+    <p><i>"I'm your father."</i></p>
+  </div>
 <h3 align="center">
   ⭐ Thanks for visiting my profile!
 </h3>
